@@ -4,7 +4,7 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 </div>
 
 
- ## 📊 Stats
+ ## Stats
 <div align="center">
 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krribeiro&layout=compact&bg_color=00000000&text_color=A9A9A9&title_color=D3D3D3&border_color=A9A9A9" alt="Top Languages">
@@ -15,3 +15,11 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
   </a>
 
 </div>
+
+##Working with:
+<table align="center">
+ <tr>
+ <td align="center">
+  <img style"width
+ 
+</tr>
