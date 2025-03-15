@@ -14,6 +14,6 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
     
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=krribeiro&thete=omni&background=00000000&border=A9A9A9&stroke=A9A9A9&fire=A9A9A9&currStreakNum=A9A9A9&sideNums=A9A9A9">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=krribeiro&themee=omni&background=00000000&border=A9A9A9&ring=A9A9A9&stroke=A9A9A9&fire=A9A9A9&currStreakNum=A9A9A9&sideNums=A9A9A9">
   </a>
 </div>
