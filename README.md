@@ -25,3 +25,13 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
 
 </div>
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/k-rribeiro" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+ 
