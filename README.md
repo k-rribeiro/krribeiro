@@ -11,7 +11,7 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 
 
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/krribeiro?cardType=github&theme=tokyonight&preferLogin=true">
-    <img width="50%" alt="krribeiro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krribeiro?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=D3D3D3&Title=D3D3D3&Ring=A9A9A9&Border=D3D3D3">
+    <img width="50%" alt="krribeiro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krribeiro?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=D3D3D3&Title=D3D3D3&Ring=D3D3D3&Border=D3D3D3">
   </a>
 
 </div>
